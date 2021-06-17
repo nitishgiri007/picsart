@@ -11,7 +11,7 @@ body{
   font-family: "Noto Serif";
   color: var(--secondary);
   background: rgb(2,0,36);
-  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(118,9,121,1) 11%, rgba(89,60,155,1) 53%, rgba(0,212,255,1) 89%);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(203,29,208,1) 0%, rgba(0,212,255,1) 100%, rgba(89,60,155,1) 100%);
 }
 .App{
   max-width: 960px;
